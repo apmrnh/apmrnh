@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Arthur Pontes!
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-🚀 Entusiasta de Cibersecurity
+💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
+🚀 Entusiasta de Cibersecurity<br>
 📍 Recife - PE
 
 ## 🧠 Sobre mim
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas no IFPE, com foco na área de Segurança da Informação. Tenho experiência em testes de invasão, OSINT e atuo com ferramentas de segurança ofensiva. Minha trajetória técnica inclui desenvolvimento em Python, C e Java, sempre prezando por implementações limpas e em conformidade com os padrões da web.
+Atualmente cursando Análise e Desenvolvimento de Sistemas no IFPE, com foco na área de Segurança da Informação. Tenho experiência em testes de invasão, OSINT e atuo com ferramentas de segurança ofensiva. Minha trajetória técnica inclui desenvolvimento em Python, C e Java.
 
 Aqui no GitHub, compartilho meus projetos, scripts e resoluções de laboratórios de cibersegurança.
 
@@ -26,7 +26,7 @@ Busco oportunidades para aplicar meus conhecimentos em segurança da informaçã
 
 ## 👾 Linguagens e Tecnologias
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=Burp%20Suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge) ![Sleuthkit](https://img.shields.io/badge/Sleuthkit-4B275F?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=Burp%20Suite&logoColor=white)
 
 ## 🛡️ Laboratórios e CTFs
 

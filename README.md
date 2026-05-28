@@ -31,16 +31,3 @@ Busco oportunidades para aplicar meus conhecimentos em segurança da informaçã
 ## 🛡️ Laboratórios e CTFs
 
 * 🔍 **PortSwigger Academy:** (https://github.com/apmrnh/pentest-portswigger)
-
-## 📊 Estatísticas
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apmrnh&show_icons=true&theme=dracula" alt="Estatísticas do GitHub do apmrnh" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apmrnh&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
-    </td>
-  </tr>
-</table>
